@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Development Guardrails"
+  short_description: "Prevent common app dev failures during run-debug-test loops."
+  default_prompt: "Apply robust app development guardrails: verify runtime state, validate payload contracts, reduce noisy logs, and confirm end-to-end behavior before concluding."

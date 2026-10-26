@@ -1,0 +1,6 @@
+{
+  "name": "rule-guard",
+  "version": "0.1.0",
+  "author": { "name": "Denzil Nelson" },
+  "description": "Enforces AGENTS.md boundaries as tool-call denials: GitHub push boundary, cloud CLIs and Claude cloud outputs in personal projects, zsh $VAR:tag quoting"
+}
