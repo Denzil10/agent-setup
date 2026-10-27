@@ -45,6 +45,6 @@ Checklists for app runs where the failure is environment state rather than code:
 ## What isn't here
 My global rules, memory, scheduled jobs, profiles, per-project state and anything that names an account. The context-cost settings from [88% of my coding agent's usage goes on reading](https://denzil10.github.io/blog/the-model-rereading-itself/) live in my Claude Code settings and another mod, not in this repo; the post has the numbers and the settings.
 
-No license yet, so for now treat it as something to read and borrow ideas from.
+MIT licensed: copy, adapt, ship.
 
 — [Denzil Nelson](https://denzil10.github.io/) · [blog](https://denzil10.github.io/blog/) · [agent fleet](https://denzil10.github.io/agent-fleet/)
